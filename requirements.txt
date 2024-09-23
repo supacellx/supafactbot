@@ -1,0 +1,2 @@
+python-telegram-bot==20.0  # Asegúrate de usar la versión adecuada
+python-docx==0.8.11  # Asegúrate de usar la versión adecuada
